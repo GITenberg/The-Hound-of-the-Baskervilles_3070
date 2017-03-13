@@ -1,5 +1,8 @@
 _repo: The-Hound-of-the-Baskervilles_3070
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -24,6 +27,8 @@ description: "The Hound of the Baskervilles is the third of the crime novels wri
   \ Read poll of the UK's \"best-loved novel.\" In 1999, it was listed as the top\
   \ Holmes novel, with a perfect rating from Sherlockian scholars of 100.\n\n\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3070#The-Hound-of-the-Baskervilles
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
